@@ -10,9 +10,9 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/robertkrimen/otto/ast"
-	"github.com/robertkrimen/otto/file"
-	"github.com/robertkrimen/otto/token"
+	"github.com/rickyrich/otto/ast"
+	"github.com/rickyrich/otto/file"
+	"github.com/rickyrich/otto/token"
 )
 
 type _chr struct {

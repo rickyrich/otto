@@ -3,8 +3,8 @@ package otto
 import (
 	"testing"
 
-	"github.com/robertkrimen/otto/terst"
-	"github.com/robertkrimen/otto/underscore"
+	"github.com/rickyrich/otto/terst"
+	"github.com/rickyrich/otto/underscore"
 )
 
 func init() {
